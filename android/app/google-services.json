@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "618830570944",
+    "project_id": "lit-my-path",
+    "storage_bucket": "lit-my-path.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618830570944:android:952bcffdd899ab50069425",
+        "android_client_info": {
+          "package_name": "com.azodha_assigment_hemangi_falak.azodha_assigment_hemangi_falak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYuegLllFWsi3eAGo6gnS1x-7S1JBUvL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618830570944:android:5d243e45aff4f49f069425",
+        "android_client_info": {
+          "package_name": "com.demo1.demo1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYuegLllFWsi3eAGo6gnS1x-7S1JBUvL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618830570944:android:5a215b60ce44726b069425",
+        "android_client_info": {
+          "package_name": "com.prictechnologyassigmenthemangifalak.prictechnologyassigmenthemangifalak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYuegLllFWsi3eAGo6gnS1x-7S1JBUvL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
